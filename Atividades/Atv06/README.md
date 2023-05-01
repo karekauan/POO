@@ -1,0 +1,3 @@
+# Resolução
+
+Foram criadas duas variáveis, onde uma recebeu o valor depositado mensalmente e a outra o valor desejado, com isso criou-se uma variavel que recebe o total da conta e outra os messes passados, enquanto o valor atual for menor que o desejado, ele recebe a si mesmo mais o deposito mensal mais 0.5% de juros e incrementa o contador de meses, ao atingir o valor desejado ou mais ele mostra o total de meses decorridos.
