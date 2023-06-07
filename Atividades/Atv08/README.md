@@ -1,4 +1,3 @@
 # Resolução
 
-Foi feita a classe cliente, com os atributos privados, e seus respectivos getters & setters, e depois foi instânciado um objeto, seus atributos foram
-setados com os set's, e mostrados com os get's.
+Removidos os System.out com get e passado para um método da classe cliente a função de exibir os atributos.
