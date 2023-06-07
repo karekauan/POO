@@ -35,3 +35,11 @@
 ## Atv06
 
 > https://github.com/karekauan/POO/blob/main/Atividades/Atv06/notebook/Atv06.ipynb
+
+## Atv07
+
+> https://github.com/karekauan/POO/blob/main/Atividades/Atv07/
+
+## Atv08
+
+> https://github.com/karekauan/POO/blob/main/Atividades/Atv08/
