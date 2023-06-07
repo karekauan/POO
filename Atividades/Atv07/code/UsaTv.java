@@ -1,7 +1,5 @@
 package Atv07.code;
 
-import Atv07.code.Tv;
-
 public class UsaTv {
     
     public static void main(String[] args) {
