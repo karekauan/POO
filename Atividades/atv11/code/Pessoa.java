@@ -1,25 +1,39 @@
 package atv11.code;     
 
 public class Pessoa {
-    public static void main(String[] args) {
-        int[] numeros = {1, 2, 3, 4, 5};
-        imprimirNumeros(numeros);
-        somaNumeros(numeros);
-        imprimirNumeros(numeros);
+
+    private String nome;
+    private int idade;
+    private double altura;
+
+    public String getNome() {
+        return nome;
     }
 
-    public static void imprimirNumeros(int[] numeros) {
-        for (int i = 0; i < numeros.length; i++) {
-            System.out.print(numeros[i] + " ");
+    public void setNome(String nome) {
+        if (nome.length() > 0) {
+            this.nome = nome;
         }
-        System.out.println();
     }
 
-    public static void somaNumeros(int[] numeros) {
-        int soma = 0;
-        for (int i = 0; i < numeros.length; i++) {
-            soma += numeros[i];
+    public int getIdade() {
+        return idade;
+    }
+
+    public void setIdade(int idade) {
+        if (idade > 0) {
+            this.idade = idade;
         }
-        System.out.println(soma);
+    }
+
+    public double getAltura() {
+        return altura;
+    }
+
+    public void setAltura(double altura) {
+        if (altura > 0) {
+            this.altura = altura;
+        }
     }
 }
+

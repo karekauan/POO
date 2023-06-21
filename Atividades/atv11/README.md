@@ -1,3 +1,3 @@
 # Resolução
 
-Criada uma classe, com dois métodos void nela, e depois no main a chamada desses métodos conforme solicitado.
+Criada uma classe com atributos privados e seus getters e setters, e outra usada para usar/testar a classe anterior.
