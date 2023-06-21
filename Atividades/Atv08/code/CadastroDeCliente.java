@@ -1,4 +1,4 @@
-package Atv08;
+package Atv08.code;
 
 public class CadastroDeCliente {
 
