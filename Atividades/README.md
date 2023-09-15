@@ -34,3 +34,9 @@
 ## [Atv11](https://github.com/karekauan/POO/blob/main/Atividades/atv11/)
 
 ## [Atv12](https://github.com/karekauan/POO/blob/main/Atividades/atv12/)
+
+## [Atv13](https://github.com/karekauan/POO/blob/main/Atividades/atv13/)
+
+## [Atv14](https://github.com/karekauan/POO/blob/main/Atividades/atv14/)
+
+## [Atv15](https://github.com/karekauan/POO/blob/main/Atividades/atv15/)
